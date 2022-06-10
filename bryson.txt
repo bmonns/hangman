@@ -1,0 +1,31 @@
+---
+:name:
+:word: efficiency
+:word_array:
+- e
+- f
+- f
+- i
+- c
+- i
+- e
+- n
+- c
+- y
+:guesses_left: 8
+:guess_array:
+- e
+- f
+- f
+- i
+- c
+- i
+- e
+- n
+- c
+- y
+:player_name: Bryson
+:game_over: true
+:incorrect_guesses:
+- a
+- t

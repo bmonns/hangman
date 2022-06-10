@@ -1,0 +1,37 @@
+---
+:name:
+:word: 'charter
+
+  '
+:word_array:
+- c
+- h
+- a
+- r
+- t
+- e
+- r
+- "\n"
+:guesses_left: 0
+:guess_array:
+-
+-
+- a
+-
+-
+- e
+-
+-
+:player_name: B
+:game_over: true
+:incorrect_guesses:
+- i
+- u
+- d
+- q
+- i
+- o
+- u
+- m
+- w
+- l
